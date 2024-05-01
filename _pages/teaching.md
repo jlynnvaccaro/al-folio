@@ -1,13 +1,14 @@
 ---
 layout: page
-title: teaching
+title: Teaching
+order: 3
 nav: true
 dropdown: true
 children: 
-    - title: current and past students
-      permalink: /teaching-students/
-    - title: prospective students
-      permalink: /teaching-prosp/
-    - title: courses
+    - title: Students
+      permalink: /students/
+    - title: Courses
       permalink: /teaching-courses/
+    - title: Prospective
+      permalink: /teaching-prosp/
 ---

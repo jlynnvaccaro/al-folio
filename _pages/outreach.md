@@ -1,78 +1,230 @@
 ---
 layout: page
-title: outreach
+title: Outreach
 permalink: /outreach/
-description: engaging pre-college students into mathematics
+description: 
 nav: false
 horizontal: false
+heading: Outreach
 ---
 
-### Sonia Kovalevsky Days
+Information about different career talks I have given these last years can be found in  [Talks](https://lauraschaposnik.github.io/talks/), and below is information about outreach days I run annually at UIC. 
 
-These days are part of series of the [Association of Women in Mathematics (AWM)](https://sites.google.com/site/awmmath/home). For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. 
 
-##### Material for Sonia Kovalevsky days.
+<hr>
+<span style="font-size:15px">
+ 
+ 
+<h1> <a href="https://www.amazon.com/Potential-Inspire-Kovalevskys-Mathematical-Journey/dp/B0BRJZ182H?ref_=ast_sto_dp">The potential to inspire…</a></h1>
 
-9. [Billiards](https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing), with James A. Unwin (2018).
-8. [Non-orientable surfaces](https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing), with James A. Unwin (2018).
-7. [Sphere packing](https://drive.google.com/file/d/14X3GQ4cRT5QoGzmDYkwElOPApq0_JdxU/view?usp=sharing), with James A. Unwin (2018).
-6. [Non Transitive Dice](https://drive.google.com/open?id=0B1Bztk_iEJigcnVIZW05bElNclk), with James A. Unwin (2017).
-5. [Sums of Dice](https://drive.google.com/file/d/0B1Bztk_iEJigaWJ6QllNLUxhNzQ/view?usp=sharing), with James A. Unwin (2017).
-4. [The Monty Hall Problem](https://drive.google.com/file/d/0B1Bztk_iEJigMGx4VG56SnItNDg/view?usp=sharing), with James A. Unwin (2017). 
-3. [Graph Coloring](https://drive.google.com/file/d/1MUo3vcEBWmrCIAy5aynzVLL83p7uLowA/view?usp=sharing), with James A. Unwin (2016). 
-2. [Knots](https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing), with James A. Unwin (2016). 
-1. [Bridges of Konigsberg](https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing), with James A. Unwin (2016). 
+ 
 
-##### Pages for past Sonia Kovalevsky days
+<i>The Potential to Inspire: Sonia Kovalevsky's Mathematical Journey</i> is a poetic tale that takes us through the inspiring path of Sonia Kovalevsky, the first woman to receive a PhD and become a mathematics professor. Sonia Kovalevsky, who lived in the 19th century, became the first woman to obtain a doctorate in mathematics, the first woman appointed to a full professorship in Northern Europe, and one of the first women to work for a scientific journal as an editor. Sonia grew up in Russia, and her name was Со́фья Васи́льевна Ковале́вская, which translates into Sofia/Sofya Vasilyevna Kovalevskaya or Sophie/Sonia Kovalevsky. We have chosen the latter variation of her name since we developed this book inspired by the Sonia Kovalevsky Days for girls in math which originated within the Association of Women in Mathematics of the United States of America.
 
-* 2020 []()
-* 2019 []()
-* 2018 []()
-* 2017 []()
-* 2016 []()
-* 2015 []()
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+ 
 
-### MIT PRIMES-USA
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia1.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia2.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Books/sonia3.jpeg" title="The potential to inspire" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<hr>
+<span style="font-size:15px">
+ 
+ 
 
-Since 2014, I have been wirking with MIT through their [PRIMES program]().
 
-<b>Vishaal Ram</b> |  Soon to become an undergraduate at ...
-- Supervised through PRIMES-USA (MIT) during 2020 (High School)
-- 2020 S.-T. Yau High School Science Bronze Award.
-- Regeneron Science Talent Search Scholar 2020.
+ 
+<hr>
+<span style="font-size:15px">
+ 
 
-<b>Yuyuan Luo</b> |   Currently undergraduate at MIT.
-- Supervised through PRIMES-USA (MIT) during 2019 (High School)
-- JMM Outstanding Poster Presentation Award (2020). 
+<h4>Sonia Kovalevsky Days</h4>
 
-<b>Rinni Bhansali</b>  | Currently undergraduate at Stanford University.
-- Supervised during 2018 through MIT's PRIMES-USA program
-- Project: A trust model for bootstrap percolation
-- Regeneron Science Talent Search Scholar (2018).
+These days are part of series of the <a href="https://sites.google.com/site/awmmath/home"> Association of Women in Mathematics (AWM)</a>. For more than twenty years Sonia Kovalevsky Days have been organized and sponsored by AWM and held at colleges and universities throughout the country. Sonia Kovalevsky Days (SK Days) consist of a program of workshops, talks, and problem-solving competitions for female high school and middle school students and their teachers, both women and men. At UIC together with <a href="https://unwin.people.uic.edu/">James Unwin</a> we run anual Sonia Kovalevsky days, for which we have prepared the material listed below which we are currently converting into a book. 
 
-We develop a trust model which when considered together with bootstrap percolation, allows one to study ways in which gossip (and fake news) spread in social networks. 
+<br>
 
-<b>Anlin Zhang</b>   |  Currently undergraduate at Princeton University.
-- Supervised during 2017 through MIT's PRIMES-USA program
-- Project: Virus spread in symmetric networks
-- Siemens National Finalist (2017).
-- [Paper](https://www.tandfonline.com/doi/pdf/10.1080/23737867.2017.1419080)
+ 
+ 
 
-Symmetries in nature have been long studied by mathematicians, and in this project we shall be looking at particular cases of natural symmetries: the ones appearing in viral infections....
+9. <a href="https://drive.google.com/file/d/1MwFiFEbUCeWj9VDtDh4BhbAoyoAKikKO/view?usp=sharing">Billiards</a>, with James A. Unwin (2018).
 
-<b>Kai Siang-Ang</b> | Currently undergraduate at Stanford University.
-- Supervised during 2016 through MIT's PRIMES-USA program. 
-- Project: On the geometry of regular icosahedral capsids containing disymmetrons
-- Regeneron Science Talent Search Scholar (2016).
-- [Paper](https://arxiv.org/abs/1608.08271)
+<br>
 
-Icosahedral virus capsids are composed of symmetrons, organized arrangements of capsomers. In the present paper we incorporate disymmetrons to obtain a geometric classification of icosahedral viruses formed by regular penta-, tri-, and disymmetrons.  
+ 
 
-<b>Jessica Li</b> |  Currently undergraduate at Harvard University.
-- Supervised during 2014 through MIT's PRIMES-USA program.
-- Interface control and snow crystal growth
-- Siemens Semifinalist (2014).
-- Intel Competition Semifinalist (2014). 
-- [Paper](https://arxiv.org/abs/1505.02042)
+8. <a href="https://drive.google.com/file/d/1HvY4P5eqB6u4JTL5qkKMiYfP8U4zLS9b/view?usp=sharing">Non-orientable surfaces</a>, with James A. Unwin (2018).
 
-The growth of snow crystals is dependent on the temperature and saturation of the environment. By defining two new variables, growth latency and growth direction, our improved model gives a realistic model not only for dendrite but also for plate forms.
+
+<br>
+
+ 
+
+7. <a href="https://drive.google.com/file/d/14X3GQ4cRT5QoGzmDYkwElOPApq0_JdxU/view?usp=sharing">Sphere packing</a>, with James A. Unwin (2018).
+
+<br>
+
+ 
+6. <a href="https://drive.google.com/open?id=0B1Bztk_iEJigcnVIZW05bElNclk">Non Transitive Dice</a>, with James A. Unwin (2017).
+
+<br>
+
+ 
+5. <a href="https://drive.google.com/file/d/0B1Bztk_iEJigaWJ6QllNLUxhNzQ/view?usp=sharing">Sums of Dice</a>, with James A. Unwin (2017).
+
+<br>
+
+ 
+4. <a href="https://drive.google.com/file/d/0B1Bztk_iEJigMGx4VG56SnItNDg/view?usp=sharing">The Monty Hall Problem</a>, with James A. Unwin (2017). 
+
+<br>
+
+ 
+3. <a href="https://drive.google.com/file/d/1MUo3vcEBWmrCIAy5aynzVLL83p7uLowA/view?usp=sharing">Graph Coloring</a>, with James A. Unwin (2016). 
+
+<br>
+
+ 
+2. <a href="https://drive.google.com/file/d/1T7Yu_CKj4lSxN90LGq8rZoggD69oOJt4/view?usp=sharing">Knots</a>, with James A. Unwin (2016). 
+
+<br>
+
+ 
+1. <a href="https://drive.google.com/file/d/1WWqKgmSZPW3U7qkErum4ax77o6hRFPfb/view?usp=sharing">Bridges of Konigsberg</a>, with James A. Unwin (2016). 
+
+ 
+<hr>
+<span style="font-size:15px">
+ 
+ 
+<h4>  Sonia Kovalevsky days at UIC</h4>
+
+
+<table cellpadding="8" width="100%">
+
+
+
+
+<tr>
+<td width="20%">
+<img src="/assets/img/2023_Sonia.png" height="200px" width="150px">
+</td>
+
+<td width="60%">
+<h5><a href="https://sites.google.com/view/sonia2023/home"><b>Sonia Kovalevsky day VII
+</b></a></h5>
+Mathematics in Nature<br>
+</td>
+
+<td width="10%"> 2023
+</td>
+</tr>
+
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia2020.png" height="200px" width="150px">
+</td>
+
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2020.html"><b>Sonia Kovalevsky day VI
+</b></a></h5>
+Mathematics in Nature<br>
+</td>
+
+<td width="10%"> 2020
+</td>
+</tr>
+
+ 
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia2019.jpg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day V
+</b></a></h5>
+Mathematics in the Sea<br>
+ 
+</td>
+<td width="10%"> 2019
+</td>
+
+</tr>
+
+
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2018.jpg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2018.html"><b>Sonia Kovalevsky day IV
+</b></a></h5>
+Geometric Day<br>
+ 
+</td>
+<td width="10%"> 2018
+</td>
+
+</tr>
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2017.jpg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2017.html"><b>Sonia Kovalevsky day III
+</b></a></h5>
+Games of Chance<br>
+ 
+</td>
+<td width="10%"> 2017
+</td>
+
+</tr>
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2016.png" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2019.html"><b>Sonia Kovalevsky day II 
+</b></a></h5>
+Knots and Graphs<br>
+ 
+</td>
+<td width="10%"> 2016
+</td>
+
+</tr>
+
+<tr>
+<td width="20%">
+<img src="/assets/img/sonia-2015.jpg" height="200px" width="150px">
+</td>
+<td width="60%">
+<h5><a href="https://schapos.people.uic.edu/Sonia2015.html"><b>Sonia Kovalevsky day I
+</b></a></h5>
+Maths & Magic<br>
+ 
+</td>
+<td width="10%"> 2015
+</td>
+
+</tr>
+ 
+</table>
+ 
